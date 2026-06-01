@@ -1,0 +1,17 @@
+node_modules/
+dist/
+
+*.log
+
+.env
+.env.local
+.env.*.local
+
+# Local agent/task notes not needed in the public showcase repository.
+AGENTS.md
+REQUIREMENTS.md
+TASKS.md.md
+docs/tasks/
+
+.DS_Store
+Thumbs.db

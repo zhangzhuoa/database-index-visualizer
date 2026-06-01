@@ -1,0 +1,45 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#F5F7FB"/>
+  <text x="72" y="88" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">数据库索引结构可视化工具</text>
+  <text x="72" y="126" fill="#46556F" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="18">React + TypeScript + Vite · 五种数据库索引结构 · SVG 动画事件驱动</text>
+
+  <rect x="72" y="164" width="1136" height="142" rx="8" fill="white" stroke="#D7DEEA"/>
+  <text x="96" y="206" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">索引类型</text>
+  <rect x="96" y="226" width="242" height="48" rx="6" fill="#FFFFFF" stroke="#BAC6D8"/>
+  <text x="116" y="257" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="18">B+ 树索引</text>
+  <text x="382" y="206" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">当前索引类型：B+ 树索引</text>
+  <text x="382" y="246" fill="#46556F" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="16">支持插入、查找、范围查询、重置、逐步动画播放和内置示例。</text>
+  <rect x="96" y="286" width="68" height="30" rx="15" fill="#E8F8F3" stroke="#B7E5D8"/>
+  <text x="116" y="307" fill="#0F6F5B" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">插入</text>
+  <rect x="176" y="286" width="68" height="30" rx="15" fill="#E8F8F3" stroke="#B7E5D8"/>
+  <text x="196" y="307" fill="#0F6F5B" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">查找</text>
+  <rect x="256" y="286" width="96" height="30" rx="15" fill="#E8F8F3" stroke="#B7E5D8"/>
+  <text x="276" y="307" fill="#0F6F5B" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">范围查询</text>
+
+  <rect x="72" y="342" width="832" height="304" rx="8" fill="white" stroke="#9AA8BD" stroke-dasharray="6 6"/>
+  <line x1="488" y1="438" x2="248" y2="544" stroke="#6B7890" stroke-width="3"/>
+  <line x1="488" y1="438" x2="488" y2="544" stroke="#6B7890" stroke-width="3"/>
+  <line x1="488" y1="438" x2="728" y2="544" stroke="#6B7890" stroke-width="3"/>
+  <rect x="400" y="392" width="176" height="68" rx="8" fill="#E8F0FF" stroke="#3767C8" stroke-width="3"/>
+  <text x="488" y="434" text-anchor="middle" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">10 | 20</text>
+  <rect x="160" y="544" width="176" height="68" rx="8" fill="#FFF4D6" stroke="#D97706" stroke-width="4"/>
+  <text x="248" y="586" text-anchor="middle" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">5 | 6 | 7</text>
+  <rect x="400" y="544" width="176" height="68" rx="8" fill="#E8F8F3" stroke="#0F8F72" stroke-width="3"/>
+  <text x="488" y="586" text-anchor="middle" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">10 | 12 | 17</text>
+  <rect x="640" y="544" width="176" height="68" rx="8" fill="#E8F8F3" stroke="#0F8F72" stroke-width="3"/>
+  <text x="728" y="586" text-anchor="middle" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">20 | 30</text>
+  <path d="M336 578H390" stroke="#0F8F72" stroke-width="4"/>
+  <path d="M384 568L400 578L384 588" stroke="#0F8F72" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M576 578H630" stroke="#0F8F72" stroke-width="4"/>
+  <path d="M624 568L640 578L624 588" stroke="#0F8F72" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="936" y="342" width="272" height="304" rx="8" fill="white" stroke="#D7DEEA"/>
+  <text x="960" y="386" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">动画事件</text>
+  <text x="960" y="424" fill="#46556F" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">6 / 29</text>
+  <line x1="960" y1="454" x2="1184" y2="454" stroke="#EEF2F7"/>
+  <text x="960" y="492" fill="#74839A" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">当前步骤</text>
+  <text x="960" y="526" fill="#172033" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">插入 key 5</text>
+  <line x1="960" y1="556" x2="1184" y2="556" stroke="#EEF2F7"/>
+  <text x="960" y="594" fill="#74839A" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">事件类型</text>
+  <text x="960" y="628" fill="#172033" font-family="Segoe UI Mono, Consolas, monospace" font-size="17" font-weight="700">insert-key</text>
+</svg>
