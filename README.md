@@ -98,7 +98,7 @@ src/core/quadtree/     四叉树核心逻辑、engine、ViewModel 和测试
 src/core/grid/         网格索引核心逻辑、engine、ViewModel 和测试
 src/components/        SVG 可视化组件
 src/pages/             首页编排、索引入口、内置示例配置
-docs/                  架构说明、AI Coding 过程说明和任务记录
+docs/                  架构说明、AI Coding 过程说明和展示资源
 ```
 
 ## AI Coding 说明

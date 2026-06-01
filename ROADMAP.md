@@ -10,7 +10,7 @@
 - 已通过 Vercel 部署，可通过公网 URL 访问。
 - 已补充 README、架构说明、AI Coding 说明和版本记录。
 
-## 面试展示重点
+## 当前工程重点
 
 - 多索引统一 `IndexEngine` 架构。
 - 核心算法与 React 页面组件解耦。
